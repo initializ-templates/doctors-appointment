@@ -1,3 +1,21 @@
+## Try on Initializ
+
+## On Dev 
+[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](https://console.dev.initializ.ai/create-app/?clone=https://github.com/initializ-templates/doctors-appointment&repo_name=doctors-appointment&description=♾%20Doctors%20on%20call&github=true)
+
+## On Prod 
+[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](https://console.initializ.ai/create-app/?clone=https://github.com/initializ-templates/doctors-appointment&repo_name=doctors-appointment&description=♾%20Doctors%20on%20call&github=true)
+
+## Prerequisite 
+### Must have an Account on [Initializ.ai](https://console.initializ.ai/register/)<br><br>
+
+#### Steps to Create Account
+ Step 1: [SignUp](https://console.initializ.ai/register/) <br>
+ <br>[![Sign Up](https://res.cloudinary.com/dd4xje8fc/image/upload/v1717773727/image_1_eaxyhp.png)](https://console.initializ.ai/register/)<br><br>
+ Step 2: Verify Your Email<br><br>
+ Step 3: [Sign In](https://console.initializ.ai/login/) <br><br>[![Sign In](https://res.cloudinary.com/dd4xje8fc/image/upload/v1717773726/image_2_pi56ah.png)](https://console.initializ.ai/login/)<br><br>
+ Step 4: [Deploy on Initializ](https://console.initializ.ai/create-app/?clone=https://github.com/initializ-templates/doctors-appointment&repo_name=doctors-appointment&description=♾%20Doctors%20on%20call&github=true)
+
 ## About The Project
 The `DoctorOnCall` System facilitates patients in scheduling appointments with preferred doctors or Emergency Appointments set up via an online platform.
 Developed using the React, Nodejs, and Prisma stack, it offers a professional website with dynamic functionalities. Key features include dynamic home, Email Notification, Filtering doctors, Setting up appointments and patients/doctors dashboards, secure user login with validation mechanisms, appointment scheduling with access to doctor details, patient appointment management, doctor selection, and overall industries level code splitting followed.
